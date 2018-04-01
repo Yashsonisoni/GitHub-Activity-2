@@ -2,7 +2,7 @@
 
 Welcome to this page ,this page is about features of Android Studio.
 
-![android text](https://github.com/Yashsonisoni/GitHub-Activity-2/androidStudio.png)
+![android text](https://github.com/Yashsonisoni/GitHub-Activity-2/master/androidStudio.png)
 
 ### About Android Studio.
 
