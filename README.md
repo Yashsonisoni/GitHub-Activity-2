@@ -2,7 +2,7 @@
 
 Welcome to this page ,this page is about features of Android Studio.
 ![android studio](https://github.com/Yashsonisoni/GitHub-Activity-2/blob/master/studio-feature-devices_2x.png)
-![android studio](https://github.com/Yashsonisoni/GitHub-Activity-2/blob/master/cofeorderapp.PNG)
+
 
 ### About Android Studio.
 
