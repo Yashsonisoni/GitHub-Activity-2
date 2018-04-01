@@ -1,6 +1,8 @@
 ### Android Studio.
 
-Welcome to this page ,this page is about features of Android Studio.![android studio](https://github.com/Yashsonisoni/GitHub-Activity-2/blob/master/androidStudio.png)
+Welcome to this page ,this page is about features of Android Studio.
+
+https://github.com/Yashsonisoni/GitHub-Activity-2/blob/master/androidStudio.png
 
 ### About Android Studio.
 
