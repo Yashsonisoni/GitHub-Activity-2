@@ -1,7 +1,7 @@
 ### Android Studio.
 
 Welcome to this page ,this page is about features of Android Studio.
-![android studio](GitHub-Activity-2/studio-feature-devices_2x.png)
+![android studio](https://github.com/Yashsonisoni/GitHub-Activity-2/blob/master/studio-feature-devices_2x.png)
 ### About Android Studio.
 
 Android Studio is Android's official IDE. It is purpose built for Android to accelerate your development and help you build the highest-quality apps for every Android device.
