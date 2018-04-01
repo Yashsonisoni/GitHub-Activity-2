@@ -1,6 +1,7 @@
 ### Android Studio.
 
 Welcome to this page ,this page is about features of Android Studio.
+<img src="https://github.com/Yashsonisoni/GitHub-Activity-2/blob/master/androidStudio.png" alt="android Studio"/>
 
 ![android text](https://github.com/Yashsonisoni/GitHub-Activity-2/blob/master/androidStudio.png)
 
